@@ -38,7 +38,7 @@ Use the "C" button to delete the last entered character.
 
 ### Screenshots
 
-![Screenshot](/C:/Users/ULTRAPC/Desktop/HackerRank/Java/CalculatorApp/Screenshot_2024-04-11_195411.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
