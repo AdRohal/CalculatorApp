@@ -38,7 +38,7 @@ Use the "C" button to delete the last entered character.
 
 ### Screenshots
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](/screenshot.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
